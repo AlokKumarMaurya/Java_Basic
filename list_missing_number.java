@@ -14,7 +14,6 @@ class Main{
             }else temp=false;
         }
         if(temp==false){
-              System.out.println("wefgrewqdfewdsdfedwdef");
             break;
         }
     }
